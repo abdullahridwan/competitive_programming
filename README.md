@@ -9,6 +9,13 @@ Competitions are pretty cool - the questions are interesting and i look forward 
 
 | Question| Contest Platform | Description | 
 |---------|----------|------|
-| Spring Couplet|Code forces|https://codeforces.com/gym/103495/problem/A   | 
-|       |       |     
+|   Sum Of Digits    |   CodeChef    |   |
+|   Second Largest    |   CodeChef    |   |
+|   Squid Game    |   CodeChef    |   |
+|   Red light Green Light    |   CodeChef    |   |
+|   Reverse The Number    |   CodeChef    |   |
+|   First and Last Digit    |   CodeChef    |   |
+| Spring Couplet|CodeForces|https://codeforces.com/gym/103495/problem/A   | 
+
+
 
