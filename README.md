@@ -11,11 +11,11 @@ Competitions are pretty cool - the questions are interesting and i look forward 
 |---------|----------|------|
 |   Sum Of Digits    |   CodeChef    |   |
 |   Second Largest    |   CodeChef    |   |
-|   Squid Game    |   CodeChef    |   |
-|   Red light Green Light    |   CodeChef    |   |
+|   Squid Game    |   INFI21C Contest    |   |
+|   Red light Green Light    |   INFI21C Contest    |   |
 |   Reverse The Number    |   CodeChef    |   |
 |   First and Last Digit    |   CodeChef    |   |
-| Spring Couplet|CodeForces|https://codeforces.com/gym/103495/problem/A   | 
+| Spring Couplet| 2021 Jiangsu Collegiate Programming Contest |https://codeforces.com/gym/103495/problem/A   | 
 
 
 
