@@ -9,12 +9,12 @@ Competitions are pretty cool - the questions are interesting and i look forward 
 
 | Question| Contest Platform | Description | 
 |---------|----------|------|
-|   Sum Of Digits    |   CodeChef    |   |
-|   Second Largest    |   CodeChef    |   |
+|   Sum Of Digits    |   Old Contest Problem    |   |
+|   Second Largest    |   Old Contest Problem    |   |
 |   Squid Game    |   INFI21C Contest    |   |
 |   Red light Green Light    |   INFI21C Contest    |   |
-|   Reverse The Number    |   CodeChef    |   |
-|   First and Last Digit    |   CodeChef    |   |
+|   Reverse The Number    |   Old Contest Problem    |   |
+|   First and Last Digit    |   Old Contest Problem    |   |
 | Spring Couplet| 2021 Jiangsu Collegiate Programming Contest |https://codeforces.com/gym/103495/problem/A   | 
 
 
