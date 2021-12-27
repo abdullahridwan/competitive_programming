@@ -7,4 +7,8 @@ Competitions are pretty cool - the questions are interesting and i look forward 
 
 
 
-| Question | Link |
+| Question| Contest Platform | Description | 
+|---------|----------|------|
+| Spring Couplet|Code forces|https://codeforces.com/gym/103495/problem/A   | 
+|       |       |     
+
