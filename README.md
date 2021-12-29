@@ -16,6 +16,7 @@ Competitions are pretty cool - the questions are interesting and i look forward 
 |   Reverse The Number    |   Old Contest Problem    |   |
 |   First and Last Digit    |   Old Contest Problem    |   |
 | Spring Couplet| 2021 Jiangsu Collegiate Programming Contest |https://codeforces.com/gym/103495/problem/A   | 
+|Odd Repeat| CodeChef Practice Problem| https://www.codechef.com/problems/REPEAT |
 
 
 
