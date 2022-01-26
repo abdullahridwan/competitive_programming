@@ -1,4 +1,4 @@
-/* Passed, Time: 0.04sec*/
+/*     Passe, Time: 0.04sec     */
 #include <bits/stdc++.h>
 using namespace std;
 
