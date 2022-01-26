@@ -2,6 +2,7 @@ import os, git
 
 
 repo = git.Repo(os.getcwd())
+print(os.getcwd())
 if repo.is_dirty():
     repo.remotes.origin.pull()
     repo.git.add('--all')  # to add all the working files.
@@ -9,5 +10,5 @@ if repo.is_dirty():
     origin = repo.remote(name='origin')
     origin.push(refspec="main:main")
 else:
-    print("Nothing to push in this folder")
+    print("Nothing to push!")
 
